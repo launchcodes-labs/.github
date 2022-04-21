@@ -7,10 +7,7 @@ Related issue(s):
 ##  Description ##
 
 
-##  Motivation and context ##
-
-
-##  What isn't in this PR ##
+##  Why ##
 
 
 ##  Testing ##
